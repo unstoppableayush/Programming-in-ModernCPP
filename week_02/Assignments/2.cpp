@@ -10,3 +10,6 @@ int main() {
    cout << DOUBLE1(a++) << " " << DOUBLE2(a++) << endl;
    return 0;
 }
+
+
+
